@@ -20,4 +20,4 @@ Code and Colab notebooks for **Using LLMs in Text Summarisation of Radiology Rep
 3. Run all cells to preprocess, train, and evaluate.
 
 ## Citation
-[Your Name], *MSc Dissertation*, Queen Mary University of London, 2025.
+Deepak Raj Sundar Rajan, *MSc Dissertation*, Queen Mary University of London, 2025.
